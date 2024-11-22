@@ -1,0 +1,2 @@
+Predicted Price,Actual Price,Error,Absolute Error,Is_Anomaly
+8239000.0,7100000,1139000.0,1139000.0,True
